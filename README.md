@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Phan Thành Lợi</h1>
+<h3 align="center">AI & Software Engineering Student</h3>
 
-<!--
-**loiphan2202/loiphan2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
+- 🎓 Final-year IT student at VKU  
+- 🤖 Interested in AI, Machine Learning & Data  
+- 📱 Flutter & Web Application Developer  
+- 🚀 Passionate about real-world AI applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills
+**AI / Data**
+- Python, Machine Learning, Deep Learning
+- TensorFlow, PyTorch, Scikit-learn
+
+**Software**
+- Flutter, Dart
+- Laravel, Node.js
+- MySQL, Firebase
+
+---
+
+### 📌 Featured Projects
+- 🩺 **Medical Chatbot** – NLP-based healthcare assistant  
+- 📈 **Stock Prediction** – Time series forecasting  
+- 🌊 **Flood Forecasting** – ML for disaster prediction  
+- 📚 **BookClub App** – Flutter mobile application  
+
+---
+
+### 📫 Contact
+- GitHub: [loiphan2202](https://github.com/loiphan2202)
+- LinkedIn: *(add later if you want)*
+
+---
+⭐ Feel free to explore my repositories!
