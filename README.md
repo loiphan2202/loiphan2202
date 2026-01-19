@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Phan Thành Lợi</h1>
-<h3 align="center">AI & Software Engineering Student</h3>
-
----
 
 <h1 align="center">👋 Hi, I'm Phan Thành Lợi</h1>
 <h3 align="center">AI & Software Engineering Student | Aspiring Machine Learning Engineer</h3>
