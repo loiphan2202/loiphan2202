@@ -6,11 +6,11 @@
 
 ### 👨‍🎓 About Me
 
-🎓 Software Engineering student at **Vietnam–Korea University of Information and Communication Technology (VKU)**
-🤖 Strong interest in **Artificial Intelligence, Machine Learning, and Data-driven systems**
-💻 Fullstack-oriented mindset with experience in **Web, Mobile, and Backend development**
-⚙️ I value **clean architecture, scalable systems, and practical AI applications**
-🗣️ **Languages**: Vietnamese (Native) · English (TOEIC 650+) · Japanese (JLPT N4)
+🎓 Software Engineering student at **Vietnam–Korea University of Information and Communication Technology (VKU)**  
+🤖 Strong interest in **Artificial Intelligence, Machine Learning, and Data-driven systems**  
+💻 Fullstack-oriented mindset with experience in **Web, Mobile, and Backend development**  
+⚙️ I value **clean architecture, scalable systems, and practical AI applications**  
+🗣️ **Languages**: Vietnamese (Native) · English (TOEIC 650+) · Japanese (JLPT N3)  
 
 ---
 
